@@ -13,7 +13,9 @@ body {
 	max-width: 600px;
 	margin: 0 auto;
 	padding: 30px;
-	border: 10px solid #1c551f;
+	border: 25px solid #1c551f;
+    background-color: #f2f2f2;
+    text-align: center;
 }
 
 .card h1 {
