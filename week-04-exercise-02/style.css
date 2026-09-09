@@ -50,17 +50,17 @@ main>p {
 
 .collection-card {
     border: 1px solid rgba(0, 0, 0, 0.25);
-    background-color: #fafafa;
+    background-color: #67ccbe;
     padding: 16px;
     flex: 1 1 280px;
 }
 
 .collection-card img {
-    width: 100%;
+    width: 90%;
     height: auto;
     display: block;
     border: 1px solid rgba(0, 0, 0, 0.25);
-    margin-bottom: 16px;
+    margin: 0 auto 16px;
 }
 
 .collection-card h2 {
