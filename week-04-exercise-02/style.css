@@ -56,7 +56,7 @@ main>p {
 }
 
 .collection-card img {
-    width: 90%;
+    width: 50%;
     height: auto;
     display: block;
     border: 1px solid rgba(0, 0, 0, 0.25);
