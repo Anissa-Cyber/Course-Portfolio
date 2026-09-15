@@ -100,6 +100,10 @@ button {
     transition: all 0.5s ease-out;
 }
 
+.button-03:hover {
+    transform: translateX(8px);
+}
+
 .button-04 {
     background-color: #D97706;
     color: #ffffff;
@@ -107,6 +111,12 @@ button {
     border: 2px solid #D97706;
     font-family: "Times New Roman", serif;
     transition: all 0.6s ease-in;
+}
+
+.button-04:hover {
+    background-color: #ffffff;
+    color: #D97706;
+    border-color: #D97706;
 }
 
 .button-05 {
@@ -118,6 +128,10 @@ button {
     transition: all 0.35s ease;
 }
 
+.button-05:hover {
+    box-shadow: 0 0 18px rgba(72, 238, 155, 0.8);
+}
+
 .button-06 {
     background-color: #0891B2;
     color: #ffffff;
@@ -125,4 +139,10 @@ button {
     border: 2px solid #0891B2;
     font-family: "Times New Roman", serif;
     transition: all 0.45s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.button-06:hover {
+    background-color: #FACC15;
+    color: #1F2937;
+    border-color: #FACC15;
 }
